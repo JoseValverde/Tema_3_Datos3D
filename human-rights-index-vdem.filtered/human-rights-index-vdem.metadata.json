@@ -1,0 +1,39 @@
+{
+  "chart": {
+    "title": "Human rights index",
+    "subtitle": "Based on the expert estimates and index by [V-Dem](#dod:v-dem). It captures the extent to which people are free from government torture, political killings, and forced labor; they have property rights; and enjoy the freedoms of movement, religion, expression, and association. The variable ranges from 0 to 1 (most rights).",
+    "citation": "V-Dem (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/human-rights-index-vdem?tab=chart&time=1900..2024&country=ESP~OWID_EUR~OWID_WRL~USA~DEU~ITA~MEX~BRA~CHN~RUS&v=1&csvType=filtered&useColumnShortNames=false",
+    "selection": [
+      "World",
+      "Argentina",
+      "Australia",
+      "Botswana",
+      "China"
+    ]
+  },
+  "columns": {
+    "Civil liberties index (best estimate, aggregate: average)": {
+      "titleShort": "Civil liberties index",
+      "titleLong": "Civil liberties index - (best estimate, aggregate: average)",
+      "descriptionShort": "Best estimate of the extent to which people are free from government torture, political killings, and forced labor, they have property rights, and enjoy the freedoms of movement, religion, expression, and association.",
+      "descriptionProcessing": "The regional aggregates (including values for the World) have been estimated by averaging the country values.",
+      "unit": "",
+      "timespan": "1789-2024",
+      "type": "Numeric",
+      "owidVariableId": 1015632,
+      "shortName": "civ_libs_vdem__estimate_best__aggregate_method_average",
+      "lastUpdated": "2025-03-17",
+      "nextUpdate": "2026-03-17",
+      "citationShort": "V-Dem (2025) – processed by Our World in Data",
+      "citationLong": "V-Dem (2025) – processed by Our World in Data. “Civil liberties index – (best estimate, aggregate: average)” [dataset]. V-Dem, “Democracy report v15” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1015632.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-03-21",
+  "activeFilters": {
+    "country": "ESP~OWID_EUR~OWID_WRL~USA~DEU~ITA~MEX~BRA~CHN~RUS",
+    "tab": "chart",
+    "time": "1900..2024"
+  }
+}
